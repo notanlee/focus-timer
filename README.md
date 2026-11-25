@@ -1,3 +1,7 @@
+# LOGIN SERVICE IS DOWN DUE SECURITY, ALL SYNC & SIGN IN(UP) WON'T WORK ANY LONGER
+## PROJECT IS SUSPENDED DUE FINANCIAL SITUATION, WE WILL BACK AT SOME DAY 
+### THANK YOU SO MUCH FOR WAITING!!!!!!!!!!!!! (25/11/2026) 
+
 <p align="center">
   <a href="https://notanlee.github.io/"><img src="docs/banner.png" alt="$ Focus: a terminal-style Pomodoro timer and study companion for iPhone" width="100%"></a>
 </p>
